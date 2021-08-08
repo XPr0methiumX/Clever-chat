@@ -15,7 +15,7 @@ An API Wrapper for clever-chat (chatbot) in Python
 ## Installation
 
 ```bash
-  pip install clever_chat
+  pip install clever-chat
 ```
     
 ## API Reference
